@@ -1,0 +1,12 @@
+/ByteCode.class
+/ByteCodeParser.class
+/ByteCodeProgram.class
+/CPU.class
+/Command.class
+/CommandParser.class
+/ENUM_BYTECODE.class
+/ENUM_COMANDO.class
+/Engine.class
+/Main.class
+/Memory.class
+/OperandStack.class
