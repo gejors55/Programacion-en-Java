@@ -1,0 +1,4 @@
+// Si solo quiero recorrer el conjunto de valores
+		for (Persona valor : grupo.values()) {
+			System.out.println("valor= " + valor);
+		}
